@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dlss84" target="blank"><img src="https://img.shields.io/twitter/follow/dlss84?logo=twitter&style=for-the-badge" alt="dlss84" /></a> </p>
 
+<!--
 - 🔭 I’m currently working on **My Probile**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
