@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Sebastiani</h1>
 <h3 align="center">I am Information Systems Development / Freelance Developer from Perú</h3>
 
-- 🔭 I’m currently working on **My Probile**
+- 🔭 I’m currently working on **My Probile** and knowledge about **React**
 
 - 💬 Ask me about **HTML, CSS, Javascript y React.js**
 
