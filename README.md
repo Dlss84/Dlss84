@@ -7,6 +7,10 @@
 <h3 align="center">I am Information Systems Development / Freelance Developer from Perú</h3>
 </div>
 
+<div align="center">
+    
+</div>
+
 <div align="center"> 
   <a href="mailto:danielsebastianis84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
