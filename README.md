@@ -19,7 +19,7 @@
   originally released in 1973 as the first single from the band's self-titled
   debut album.**
 </div>
-
+<h3 align="left">Connect with me:</h3>
 <div align="center"> 
   <a href="mailto:danielsebastianis84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
