@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
 </div>
    <!-- 
   <a href="https://dlss84.github.io" target="_blank">
