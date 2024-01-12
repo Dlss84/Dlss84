@@ -8,9 +8,7 @@
 - 📫 How to reach me **danielsebastianis84@gmail.com**
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=verdadero" alt="GitHub Streak" /></a>
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
