@@ -1,3 +1,15 @@
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Sebastiani+S.;" />
+</h1>
+
+
+
+
+
+
 <textPath xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path0">
             Hi There! 👋
         </textPath><h1 align="center">I'm Daniel Sebastiani</h1>
