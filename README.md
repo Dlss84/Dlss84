@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **danielsebastianis84@gmail.com**
 
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=verdadero" alt="GitHub Streak" /></a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielsebastianis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsebastianis" height="30" width="40" /></a>
