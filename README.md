@@ -30,5 +30,11 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
 </div>
-========================
+
+<br/>
+
+<br/>
+
+<br/>
+
 
