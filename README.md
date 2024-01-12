@@ -9,8 +9,11 @@
 
 <div align="center">
   🔭 I’m currently working on **a Marketplace** 
+    
   🌱 I’m currently learning  **React, ReactJs, javaScript** 
+  
   💬 Ask me about **HTML, CSS** 
+  
   ⚡ Fun fact  **Aerosmith was the first rock band to appear in an episode of The Simpsons.
   In the episode 'Moe Flare'. One of Aerosmith's biggest hits, "Dream On," was
   originally released in 1973 as the first single from the band's self-titled
