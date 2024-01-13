@@ -40,8 +40,7 @@
       <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>    
     <br/>
-    <img alt="GitHub Readme Streak Stats" src="preview.php?user=Dlss84&amp;theme=transparent&amp;hide_border=true" style="display: block;">
-<div align=center>
+    
 <br/>
 
 <br/>
