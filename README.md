@@ -36,13 +36,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-
-    <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>    
     <br/>
     <img alt="GitHub Readme Streak Stats" src="preview.php?user=Dlss84&amp;theme=transparent&amp;hide_border=true" style="display: block;">
+<div align=center>
+
+  
     
 
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
