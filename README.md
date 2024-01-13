@@ -37,12 +37,12 @@
     </a>    
 <br/>
 
-<!-- TROFEOS -->
+<!-- TROFEOS 
 <h2 align="center">🏆 Trophies 🏆</h2>
-
-<p> 
+-->
+<div align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en" alt="dlss84" />
-</p>
+</div>
 
 
 
