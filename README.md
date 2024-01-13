@@ -30,9 +30,9 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>   
   
 </div>
-<img alt="GitHub Readme Streak Stats" src="preview.php?user=Dlss84&amp;theme=transparent&amp;hide_border=true" style="display: block;">
-<br/>
 
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 
 
 
