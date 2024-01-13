@@ -10,13 +10,13 @@
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </div>
 
 <div align="left">
-  🔭 I’m currently working on **a Marketplace**     
-  🌱 I’m currently learning  **React, ReactJs, javaScript**   
-  💬 Ask me about **HTML, CSS**   
+  🔭 I’m currently working on **a Marketplace**     <br/>
+  🌱 I’m currently learning  **React, ReactJs, javaScript**   <br/>
+  💬 Ask me about **HTML, CSS**   <br/>
   ⚡ Fun fact  **Aerosmith** was the first rock band to appear in an episode of The Simpsons.
-  In the episode 'Moe Flare'. One of Aerosmith's biggest hits, **Dream On**, was
+  In the episode 'Moe Flare'. One of Aerosmith's biggest hits, **Dream On**, was<
   originally released in 1973 as the first single from the band's self-titled
-  debut album.
+  debut album.<br/>
 </div>
 <br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
 </div>
