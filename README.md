@@ -4,12 +4,13 @@
 </h1>
 <br/>
 
-<p align="left "> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </p>
-
 <div align="center" >
 <h3 align="center">I am Information Systems Development / Freelance Developer from Perú</h3>
 </div>
 <br/>
+
+<div align="rigth"><p align="left "> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </p></div>
+
 <div align="left">
   🔭 I’m currently working on **a Marketplace** 
     
