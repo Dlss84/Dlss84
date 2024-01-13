@@ -28,14 +28,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
 </div>
 
-
-<!-- TROFEOS -->
-<h2 align="center">🏆 Trophies 🏆</h2>
-
-<p> < img align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en" alt="dlss84" /></p>
-
-
-
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>    
@@ -44,6 +36,13 @@
       <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>    
 <br/>
+
+<!-- TROFEOS -->
+<h2 align="center">🏆 Trophies 🏆</h2>
+
+<p> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en" alt="dlss84" />
+</p>
 
 
 
