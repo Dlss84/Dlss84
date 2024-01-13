@@ -30,8 +30,10 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>   
   
 </div>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<img alt="GitHub Readme Streak Stats" src="preview.php?user=Dlss84&amp;theme=transparent&amp;hide_border=true" style="display: block;">
 <br/>
+
+
 
 
 <br/>
