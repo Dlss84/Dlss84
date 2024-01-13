@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😎;+I'm+Daniel+Sebastiani+Sobenes;" />
 </h1>
 <br/>
+
+<p align="left "> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </p>
+
 <div align="center" >
 <h3 align="center">I am Information Systems Development / Freelance Developer from Perú</h3>
 </div>
