@@ -37,9 +37,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
- <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </a>    
+
+    
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent" alt="GitHub Streak" /></a>   
     <br/>
 
 
