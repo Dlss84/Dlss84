@@ -27,13 +27,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>   
-  
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>     
 </div>
 
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true&locale=es" alt="GitHub Streak" /></a>
-
 
 
 <br/>
