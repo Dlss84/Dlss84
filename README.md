@@ -34,6 +34,7 @@
 <br/>
  <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
+     <img src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="dlss84" />
     </a>    
 <br/>
 
