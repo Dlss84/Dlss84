@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-<div align="right"><p align="left "> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </p></div>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> </div>
 
 <div align="left">
   🔭 I’m currently working on **a Marketplace** 
