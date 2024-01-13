@@ -39,7 +39,10 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>    
-<p align="left "> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=dlss84" alt="dlss84" /></a> </p>
+<br/>
+ <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    </a>    
 <br/>
 
 
