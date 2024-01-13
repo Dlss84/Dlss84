@@ -32,7 +32,7 @@
 <!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
 
-<p align="left "> <img src="https://github-profile-tropico.vercel.app/?username=dlss84" alt="dlss84" /> </p>
+<p> < img align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en" alt="dlss84" /></p>
 
 
 
