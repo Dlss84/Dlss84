@@ -36,6 +36,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
 </div>
 
+
+<!-- TROFEOS -->
+<h2 align="center">🏆 Trophies 🏆</h2>
+<p align="left"> < a href="https://github.com/ryo-ma/github-profile-tropico"><img src="https://github-profile-tropico.vercel.app/?username=dlss84" alt=" dlss84" /></a> </p>
+
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
