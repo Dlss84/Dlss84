@@ -33,9 +33,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>    
 <br/>
  <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=flase" alt="GitHub Streak" />
+     <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=flase" alt="GitHub Streak" />
      <img src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />
-     <img src="https://github-readme-stats .vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />
+     <img src="https://github-readme-stats .vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10&layout=compact" alt="dlss84" />
     </a>    
 <br/>
 
