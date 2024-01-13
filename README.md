@@ -36,7 +36,9 @@
      <p>
      <img src="https://streak-stats.demolab.com?user=Dlss84&theme=transparent&hide_border=flase" alt="GitHub Streak" />
      </p>
+     <p>
      <img src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />
+</p>         
      <img align="center" src="https://github-readme-stats .vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact" alt="dlss84" />
     </a>    
 <br/>
