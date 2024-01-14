@@ -30,12 +30,13 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>    
- <div align="center" >
+<div align="center" >
   <p><img width=390 src="https://streak-stats.demolab.com?user=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="GitHub Streak" /></p>
-  <p><img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" /></p>
-    <br/>  
-
-</div>    
+  <p><img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" /></p><br/>
+  <br/>
+  <p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dlss84" /></p> 
+  <br/>
+</div>   
 <br/>
 
 <!-- TROFEOS 
