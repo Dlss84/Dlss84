@@ -19,21 +19,14 @@
   🔭 I’m currently working on **a Marketplace**     <br/>
   🌱 I’m currently learning  **React, ReactJs, javaScript**   <br/>
   💬 Ask me about **HTML, CSS**   <br/>
-  ⚡ Fun fact  **Aerosmith** was the first rock band to appear in an episode of The Simpsons.
-  In the episode 'Moe Flare'. One of Aerosmith's biggest hits, Dream On, was<
+  ⚡ Fun fact <b>Aerosmith</b> was the first rock band to appear in an episode of The Simpsons.
+  In the episode 'Moe Flare'. One of Aerosmith's biggest hits, <b>Dream On</b>, was<
   originally released in 1973 as the first single from the band's self-titled
   debut album.<br/>
 </div>
 <br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
 </div>
 <br/>
-
-<!--horizontal divider(gradiant)-->
-<div>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-</div>
 
 <h2 height="50px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left" >
@@ -47,13 +40,6 @@
   <img height="50px" align="center" src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 </p>
-
-<!--horizontal divider(gradiant)-->
-<div>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-</div>
 
 <h2 align="center">⚒️<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
    Languages-Frameworks-Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> ⚒️</h2>
@@ -79,12 +65,7 @@
   <br/>
 </div>   
 <br/>
-<!--horizontal divider(gradiant)-->
-<div>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-</div>
+
 
 <!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
@@ -92,5 +73,3 @@
 <div></div>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=dlss84" alt="dlss84" /></a> </p>
 </div>
-
-
