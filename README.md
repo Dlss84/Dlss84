@@ -28,28 +28,8 @@
 </div>
 <br/>
 
-<div> 
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-  <!--GMAIL-->
-  <a href="mailto:danielsebastianis84@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 
-  </a>
-  <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/danielsebastianis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- 
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-     sqlite, safari, google-chrome are other good icon options 
-  </a> -->
-</div>
-
-
-=============================
 <h2 height="50px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left" >
 <a href="https://twitter.com/dlss84" target="blank">
@@ -62,9 +42,6 @@
   <img height="50px" align="center" src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 </p>
-
-
-=============================
 
 
 
@@ -93,7 +70,6 @@
 </div>   
 <br/>
 
-
 <!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
 
@@ -106,13 +82,3 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<br/>
-
-<!-- TROFEOS -->
-<h2 align="center">🏆 Trophies 🏆</h2>
-
-<img align="center" src="https://github-readme-stats .vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact" alt="dlss84" />
-
-
