@@ -40,27 +40,9 @@
 </div>   
 <br/>
 
-<!-- TROFEOS 
+<!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
 
 <img align="center" src="https://github-readme-stats .vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact" alt="dlss84" />
-<br/>
 
--->
-
-
-<br/>
-
-    
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
- 
-<br/>
-
-<br/>
 
