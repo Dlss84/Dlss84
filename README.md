@@ -18,7 +18,7 @@
   originally released in 1973 as the first single from the band's self-titled
   debut album.<br/>
 </div>
-      <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+
 <br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
 </div>
 <br/>
