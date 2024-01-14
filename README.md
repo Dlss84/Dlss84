@@ -28,7 +28,12 @@
 </div>
 <br/>
 
-
+<!--horizontal divider(gradiant)-->
+<div>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+</div>
 
 <h2 height="50px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left" >
@@ -43,7 +48,12 @@
 
 </p>
 
-
+<!--horizontal divider(gradiant)-->
+<div>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+</div>
 
 <h2 align="center">⚒️<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
    Languages-Frameworks-Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> ⚒️</h2>
@@ -69,6 +79,12 @@
   <br/>
 </div>   
 <br/>
+<!--horizontal divider(gradiant)-->
+<div>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+</div>
 
 <!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
@@ -76,9 +92,5 @@
 <div></div>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=dlss84" alt="dlss84" /></a> </p>
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
