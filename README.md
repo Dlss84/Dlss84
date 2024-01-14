@@ -32,10 +32,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>    
  <div align="center" >
        <p><img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" /></p>
-     <br/>
-  
-
-    </div>    
+     <br/> 
+</div>    
 <br/>
 
 <!-- TROFEOS 
