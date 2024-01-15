@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <div align="center" >
-<h3 align="center">Systems Developer from Peru</h3>
+<h3 height="50px" align="center">Systems Developer from Peru</h3>
 </div>
 <br/>
 <div align="right"> 
