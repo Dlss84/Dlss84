@@ -23,10 +23,6 @@
 </div>
       <br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
 
-<br/>
-
-
-
 <h2 height="50px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left" >
 <a href="https://twitter.com/dlss84" target="blank">
@@ -35,29 +31,21 @@
   <img height="50px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsebastianis" height="30" width="40" /></a>
 <a href="https://discord.gg/773248060959490049" target="blank">
   <img height="50px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="773248060959490049" height="30" width="40" /></a>
-  <a href="mailto:danielsebastianis84@gmail.com">
+<a href="mailto:danielsebastianis84@gmail.com">
   <img height="50px" align="center" src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-
 </p>
-
-
+<br/>
 
 <h2 align="center">⚒️<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
    Languages-Frameworks-Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,java,mysql" /><br>
 </div>
 <br/>
-
 <!-- ESTADISTICAS-->
-
-<h2 align="center">⚡
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
-  Stats 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  ⚡
+<h2 align="center">⚡ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ⚡
 </h2>    
 <br/>
 <div align="center" >
@@ -69,10 +57,8 @@
 </div>   
 <br/>
 
-
 <!-- TROFEOS -->
 <h2 align="center">🏆 Trophies 🏆</h2>
-
-<div></div>
+<div>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=dlss84" alt="dlss84" /></a> </p>
 </div>
