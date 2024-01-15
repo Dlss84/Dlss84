@@ -10,9 +10,6 @@
 <div align="right"> 
   <img src="https://komarev.com/ghpvc/?username=dlss84&label=Profile%20views&color=0e75b6&style=flat" alt="dlss84" /> 
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dlss84.dlss84" />
-  
-  
-
 </div>
 
 <div align="left">
@@ -24,8 +21,8 @@
   originally released in 1973 as the first single from the band's self-titled
   debut album.<br/>
 </div>
-<br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
-</div>
+      <br/>   <!--   <a href="https://dlss84.github.io" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  </a>      -->
+
 <br/>
 
 
