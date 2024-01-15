@@ -1,6 +1,6 @@
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=Hi+There!+😎;+I'm+Daniel+Sebastiani+Sobenes;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=Hi+There!+😎;+I'm+Daniel+Sebastiani;" />
 </h1>
 <br/>
 <div align="center" >
@@ -28,6 +28,8 @@
 </div>
 <br/>
 
+
+
 <h2 height="50px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left" >
 <a href="https://twitter.com/dlss84" target="blank">
@@ -41,6 +43,8 @@
 
 </p>
 
+
+
 <h2 align="center">⚒️<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
    Languages-Frameworks-Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> ⚒️</h2>
 <br/>
@@ -50,6 +54,8 @@
 </div>
 <br/>
 
+<!-- ESTADISTICAS-->
+
 <h2 align="center">⚡
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
   Stats 
@@ -58,8 +64,8 @@
 </h2>    
 <br/>
 <div align="center" >
-  <p><img width=390 src="https://streak-stats.demolab.com?user=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="GitHub Streak" /></p>
-  <p><img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" /></p><br/>
+  <p><img align="left"  width=390 src="https://streak-stats.demolab.com?user=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="GitHub Streak" /></p>
+  <p><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" /></p><br/>
   <br/>
   <p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dlss84" /></p> 
   <br/>
