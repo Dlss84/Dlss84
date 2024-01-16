@@ -48,16 +48,25 @@
 <h2 align="center">⚡ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ⚡
 </h2>    
 <br/>
-<div align="center" >  
-  <p>         
-    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&theme=transparent&hide_border=false&rank_icon=github&border_radius=10&locale=en" alt="dlss84" />    
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />    
-    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dlss84" /> 
-  </p>
-</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+<div align="center">  
+    <p align="center">
+         <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=dlss84&theme=tokyonight_duo&hide_border=true">
+    </p>
+</div> 
+ 
+
   <br/>
 
 <h2 align="center">🏆 Trophies 🏆</h2>
 <div>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=dlss84" alt="dlss84" /></a> </p>
 </div>
+
+
