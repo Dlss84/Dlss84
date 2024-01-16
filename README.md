@@ -50,9 +50,9 @@
 <br/>
 <div align="center" >  
   <p>         
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />
+    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en" alt="dlss84" />    
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=dlss84&show_icons=true&locale=en&theme=transparent&hide_border=false&rank_icon=github&border_radius=10" alt="dlss84" />    
-  <img align="center" height="auto" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dlss84" /> 
+    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlss84&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dlss84" /> 
   </p>
 </div>
   <br/>
