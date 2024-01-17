@@ -54,12 +54,12 @@
 <div align="center">  
  <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=DLSS84&theme=tokyonight&hide_border=false"/>
 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight&hide_border=false" /> 
 </div> 
 
 <div align="center">  
     <p align="center">
-         <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+         <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=fals">
     </p>
     
 </div> 
