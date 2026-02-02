@@ -99,3 +99,39 @@ src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=false"/>
 
 </div>
+
+<h2>📊 Weekly development breakdown: </h2>
+<table>
+                <tr>
+                    <td width=215px;>
+                        Python
+                    </td>
+                    <td>
+                        11 hrs 43 mins
+                    </td>
+                    <td>
+                        ██████░░░░&nbsp;&nbsp;(67.01 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        CSS
+                    </td>
+                    <td width=145px;>
+                        3 hrs 8 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        HTML
+                    </td>
+                    <td width=145px;>
+                        2 hrs 27 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
+                    </td>
+                </tr></table>
