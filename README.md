@@ -101,6 +101,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme
 
 </div>
 
+
+<!-- AVANCE SEMANAL 
+
 <h2>📊 Weekly Development Breakdown</h2>
 
 <table>
@@ -119,4 +122,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme
     <td>2 hrs 27 mins</td>
     <td>█░░░░░░░░░ (14.08%)</td>
   </tr>
-</table>
+</table> -->
