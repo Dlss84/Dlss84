@@ -66,10 +66,36 @@ SISTEMAS OPERATIVOS
 <img src="https://skillicons.dev/icons?i=windows,linux,mint,ubuntu"/>
 
 </div>
-
-<br>
-<br>
-
 </div>
+<br>
+<br>
+
+<!-- 
+SERPIENTE
+-->
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
+
+<!-- 
+
+-->
+
+<!-- 
+
+-->
+
+<!-- 
+
+-->
+
+<!-- 
+
+-->
+
+<!-- 
+
+-->
