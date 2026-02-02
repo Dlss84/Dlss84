@@ -46,12 +46,12 @@ HABILIDADES
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode,sublime,github"/><br>
-
+<img src="https://skillicons.dev/icons?i=vscode,sublime,github"/>
+<br>
 </td>
 </tr>
 
