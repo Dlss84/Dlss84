@@ -28,10 +28,10 @@ In the episode called <b>"Moe Flare"</b>, one of their biggest hits, <b>Dream On
 The song was originally released in 1973.
 </div>
 
+<br/><br/>
 <!-- 
 HABILIDADES
 -->
-<br/><br/><br/>
 <div align="Center">
 <h1>Skills</h1>
 </div>
@@ -56,7 +56,7 @@ HABILIDADES
 </tr>
 
 </table>
-
+<br/><br/>
 <!-- 
 SISTEMAS OPERATIVOS
 -->
