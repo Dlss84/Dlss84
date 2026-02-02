@@ -46,13 +46,12 @@ HABILIDADES
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/><br>
-HTML • CSS • JavaScript • Sass • Python
+<img src="https://skillicons.dev/icons?i=html,css,js,py"/><br>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/><br>
-Bash • VS Code • VSCodium • Sublime Text • GitHub
+<img src="https://skillicons.dev/icons?i=vscode,sublime,github"/><br>
+
 </td>
 </tr>
 
