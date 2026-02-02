@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <h3>Systems Developer from Peru</h3>
+  <h3>Systems Developer from Peru 🇵🇪</h3>
 </div>
 
 <br/>
@@ -21,11 +21,12 @@
 
 <div align="left">
 
-🔭 I’m currently working on: <b>a Marketplace</b> <br/>
-🌱 I’m currently learning: <b>React, ReactJS, JavaScript</b> <br/>
+🔭 I’m currently working on: <b>a Marketplace project</b> <br/>
+🌱 I’m currently learning: <b>React, JavaScript</b> <br/>
 💬 Ask me about: <b>HTML, CSS</b> <br/>
-⚡ Fun fact: <b>Aerosmith</b> was the first rock band to appear in an episode of The Simpsons.  
-In the episode "Moe Flare". One of Aerosmith's biggest hits, <b>Dream On</b>, was originally released in 1973.
+⚡ Fun fact: <b>Aerosmith</b> was the first rock band to appear in an episode of <b>The Simpsons</b>.  
+In the episode called <b>"Moe Flare"</b>, one of their biggest hits, <b>Dream On</b>, was featured.  
+The song was originally released in 1973.
 
 </div>
 
@@ -37,7 +38,7 @@ In the episode "Moe Flare". One of Aerosmith's biggest hits, <b>Dream On</b>, wa
 
 <p align="left">
 
-<!-- TWITTER COMENTADO 
+<!-- Twitter commented out 
 <a href="https://twitter.com/dlss84" target="blank">
   <img height="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
 </a>
@@ -52,7 +53,7 @@ In the episode "Moe Flare". One of Aerosmith's biggest hits, <b>Dream On</b>, wa
 </a>
 
 <a href="mailto:danielsebastianis84@gmail.com">
-  <img height="50px" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img height="50px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -60,7 +61,7 @@ In the episode "Moe Flare". One of Aerosmith's biggest hits, <b>Dream On</b>, wa
 <br/>
 
 <h2 align="center">
-⚒️ Languages Frameworks Tools ⚒️
+⚒️ Languages, Frameworks & Tools ⚒️
 </h2>
 
 <br/>
@@ -76,7 +77,7 @@ In the episode "Moe Flare". One of Aerosmith's biggest hits, <b>Dream On</b>, wa
 <br/>
 
 <h2 align="center">
-⚡ Stats ⚡
+⚡ GitHub Stats ⚡
 </h2>
 
 <br/>
@@ -100,38 +101,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme
 
 </div>
 
-<h2>📊 Weekly development breakdown: </h2>
+<h2>📊 Weekly Development Breakdown</h2>
+
 <table>
-                <tr>
-                    <td width=215px;>
-                        Python
-                    </td>
-                    <td>
-                        11 hrs 43 mins
-                    </td>
-                    <td>
-                        ██████░░░░&nbsp;&nbsp;(67.01 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        3 hrs 8 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        HTML
-                    </td>
-                    <td width=145px;>
-                        2 hrs 27 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
-                    </td>
-                </tr></table>
+  <tr>
+    <td width="220px">Python</td>
+    <td width="150px">11 hrs 43 mins</td>
+    <td width="250px">██████░░░░ (67.01%)</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>3 hrs 8 mins</td>
+    <td>█░░░░░░░░░ (17.92%)</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>2 hrs 27 mins</td>
+    <td>█░░░░░░░░░ (14.08%)</td>
+  </tr>
+</table>
