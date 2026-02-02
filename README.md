@@ -82,7 +82,24 @@ The song was originally released in 1973.
 
 <br/>
 
-<!-- AVANCE SEMANAL 
+<div align="center">  
+
+<img width="45%" height="195px" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=DLSS84&theme=tokyonight&hide_border=false"/>
+
+<img width="45%" height="195px" 
+src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" height="195px" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=false"/>
+
+</div>
 
 <h2>📊 Weekly Development Breakdown</h2>
 
@@ -102,4 +119,4 @@ The song was originally released in 1973.
     <td>2 hrs 27 mins</td>
     <td>█░░░░░░░░░ (14.08%)</td>
   </tr>
-</table> -->
+</table>
