@@ -71,12 +71,12 @@ SISTEMAS OPERATIVOS
 <br>
 
 <!-- 
-SERPIENTE
+LENGUAGES MAS USADOS
 -->
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee]([https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5](https://github.com/Dlss84)) | 
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 
