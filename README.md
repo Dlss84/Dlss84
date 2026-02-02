@@ -99,3 +99,18 @@ src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=false"/>
 
 </div>
+
+<h2 align="center">⚡ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ⚡
+</h2>    
+<br/>
+
+<div align="center">  
+ <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=DLSS84&theme=tokyonight&hide_border=false"/>
+
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DLSS84&theme=tokyonight&hide_border=false" /> 
+</div> 
+
+<div align="center">  
+    <p align="center">
+         <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLSS84&theme=tokyonight&hide_border=fals">
+    </p>
