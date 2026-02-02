@@ -28,6 +28,9 @@ In the episode called <b>"Moe Flare"</b>, one of their biggest hits, <b>Dream On
 The song was originally released in 1973.
 </div>
 
+<!-- 
+HABILIDADES
+-->
 <br/><br/><br/>
 <div align="Center">
 <h1>Skills</h1>
@@ -54,6 +57,19 @@ Bash • VS Code • VSCodium • Sublime Text • GitHub
 </tr>
 
 </table>
+
+<!-- 
+SISTEMAS OPERATIVOS
+-->
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,linux,mint,ubuntu"/>
+
+</div>
+
+<br>
+<br>
 
 </div>
 
