@@ -46,7 +46,7 @@ HABILIDADES
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,py"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
 </td>
 
 <td align="center">
