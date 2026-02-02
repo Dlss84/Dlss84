@@ -20,30 +20,41 @@
 <br/>
 
 <div align="left">
-
 🔭 I’m currently working on: <b>a Marketplace project</b> <br/>
 🌱 I’m currently learning: <b>React, JavaScript</b> <br/>
 💬 Ask me about: <b>HTML, CSS</b> <br/>
 ⚡ Fun fact: <b>Aerosmith</b> was the first rock band to appear in an episode of <b>The Simpsons</b>.  
 In the episode called <b>"Moe Flare"</b>, one of their biggest hits, <b>Dream On</b>, was featured.  
 The song was originally released in 1973.
-
 </div>
 
-<br/>
+<br/><br/><br/>
 <div align="Center">
 <h1>Skills</h1>
 </div>
 
 <div align="Center">
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+<table>
+<tr>
+<th>Website</th>
+<th>Programming</th>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/><br>
+HTML • CSS • JavaScript • Sass • Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/><br>
+Bash • VS Code • VSCodium • Sublime Text • GitHub
+</td>
+</tr>
+
+</table>
 
 </div>
 
-<br>
-<br>
-<br>
 
